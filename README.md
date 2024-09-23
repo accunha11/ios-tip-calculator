@@ -1,11 +1,8 @@
 # Tip Calculator
 
-Tip Calculator is a tip calculator application for iOS.
+This is a tip calculator app built using Swift.
 
-Submitted by: Ana Carolina Cunha
-
-## User Stories
-
+# Features
 
 * User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 * User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
@@ -16,9 +13,7 @@ Submitted by: Ana Carolina Cunha
 * Implemented a default tip feature that remembers user preference and initializes the app with said default settings
 * Created a settings page in which the user can input their preferences 
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
+## Demo
 
 ![](https://i.imgur.com/qPocLrV.gif)
 
